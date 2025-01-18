@@ -1,7 +1,7 @@
 {
-  "name": "009_homework",
+  "name": "010_homework",
   "version": "1.0.0",
-  "description": "Homework for lesson 9",
+  "description": "Homework for lesson 10",
   "main": "index.js",
   "type": "module",
   "scripts": {
