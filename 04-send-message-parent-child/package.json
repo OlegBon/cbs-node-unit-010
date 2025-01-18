@@ -1,0 +1,21 @@
+{
+  "name": "send-message-parent-child",
+  "version": "1.0.0",
+  "description": "Create a Node.js application that starts a new process using the child_process module. Send a message from the parent process to the child process and receive a response from the child process. Display the response on the screen.",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "child_process",
+    "send message"
+  ],
+  "author": "OlegBon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

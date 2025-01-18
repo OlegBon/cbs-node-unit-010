@@ -1,0 +1,26 @@
+{
+  "name": "009_homework",
+  "version": "1.0.0",
+  "description": "Homework for lesson 9",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start-01": "node ./01-child-process-git-clone/index.js",
+    "start-02": "node ./02-child-process-process-file/index.js",
+    "start-03": "node ./03-worker-threads-array/index.js",
+    "start-04": "node ./04-send-message-parent-child/index.js",
+    "start-05": "node ./05-worker-threads-factorial/index.js"
+  },
+  "keywords": [
+    "express",
+    "child_process",
+    "worker_threads",
+    "git clone",
+    "splitFile",
+    "process-array",
+    "send message",
+    "factorial"
+  ],
+  "author": "OlegBon",
+  "license": "ISC"
+}

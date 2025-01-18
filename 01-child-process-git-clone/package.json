@@ -1,0 +1,22 @@
+{
+  "name": "child-process-git-clone",
+  "version": "1.0.0",
+  "description": "Create a Node.js application that uses the child_process module to run an external command, such as git clone. Get output from the command line and process it to display on the user's screen.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "child_process",
+    "git clone"
+  ],
+  "author": "OlegBon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

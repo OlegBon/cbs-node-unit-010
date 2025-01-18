@@ -1,0 +1,22 @@
+{
+  "name": "child-process-process-file",
+  "version": "1.0.0",
+  "description": "Create a Node.js application that uses the child_process module to launch multiple processes. Split a large file into smaller parts and use each process to process a separate part. Save the results to separate files and compile them into a final file.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "child_process",
+    "splitFile"
+  ],
+  "author": "OlegBon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "worker-threads-factorial",
+  "version": "1.0.0",
+  "description": "Create a Node.js application that receives a number and calculates its factorial. Use worker threads to calculate the factorial in a separate thread. Display the result on the screen.",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "worker_threads",
+    "factorial"
+  ],
+  "author": "OlegBon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "worker-threads-array",
+  "version": "1.0.0",
+  "description": "Create a Node.js application that reads an array of data and processes its elements. Use worker threads to process the array elements in parallel. Collect the processing results and display them on the screen.",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "worker_threads",
+    "process-array"
+  ],
+  "author": "OlegBon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
